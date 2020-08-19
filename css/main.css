@@ -9,7 +9,7 @@ body {
   height: 219px;
   padding-top: 20px;
   color: #fff;
-  background: #fff url(./img/logo/images/bg1.jpg) center 0 no-repeat;
+  background: #fff url(../img/logo/images/bg1.jpg) center 0 no-repeat;
   background-color: #f3f1f2;
 }
 .header {
