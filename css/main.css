@@ -9,7 +9,7 @@ body {
   height: 219px;
   padding-top: 20px;
   color: #fff;
-  background: #fff url(../../img/logo/images/bg1.jpg) center 0 no-repeat;
+  background: #fff url(../img/logo/images/bg1.jpg) center 0 no-repeat;
   background-color: #f3f1f2;
 }
 .header {
@@ -31,7 +31,7 @@ body {
   width: 181px;
   height: 52px;
   text-indent: -999em;
-  background-image: url(../../img/logo/images/logo.png);
+  background-image: url(../img/logo/images/logo.png);
   margin-top: 8px;
 }
 .header_text p {
@@ -143,7 +143,7 @@ form {
   padding-left: 15px;
   padding-right: 40px;
   border-radius: 5px;
-  background: url(../../img/logo/images/searchbtn.png) right no-repeat;
+  background: url(../img/logo/images/searchbtn.png) right no-repeat;
 }
 #inputbox_hidden {
   visibility: hidden;
